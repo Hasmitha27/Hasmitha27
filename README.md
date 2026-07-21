@@ -5,7 +5,7 @@
 **Android Developer** — building on-device, privacy-first mobile experiences that put real machine learning in people's hands, not just API calls.
 
 <a href="https://github.com/Hasmitha27">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EA3F2&center=true&vCenter=true&width=500&lines=4+Years+of+Android+Development+Experience;Now+Exploring+AI%2FML+on+Android" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2EA3F2&center=true&vCenter=true&width=500&lines=4+Years+of+Software+Development+Experience;Now+Exploring+AI%2FML+on+Android" alt="Typing SVG" />
 </a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasmitha27)
