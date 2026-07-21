@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Hasmitha Hegde 👋
+# Hi, I'm Hasmitha👋
 
 **Android Developer** — building on-device, privacy-first mobile experiences that put real machine learning in people's hands, not just API calls.
 
@@ -44,10 +44,4 @@ I care about building things that are genuinely useful, respect user privacy by 
 **Tools:** Android Studio · Git · Gradle
 
 ---
-
-### 📫 Reach me
-
-- LinkedIn: [hasmitha-hegde](https://www.linkedin.com/in/hasmitha-hegde-706a591a8/)
-- Email: [hegdehasmitha27@gmail.com](mailto:hegdehasmitha27@gmail.com)
-
 </div>
