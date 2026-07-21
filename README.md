@@ -18,8 +18,6 @@
 
 I'm an Android developer with **4 years of experience** building native mobile applications, now deepening my skills in applied AI/ML — specifically **on-device machine learning**: running real models (not cloud API wrappers) directly on mobile hardware, under real memory and latency constraints.
 
-I care about building things that are genuinely useful, respect user privacy by design, and are engineered with real rigor — proper evaluation, not just a working demo.
-
 ---
 
 ### 🔭 What I'm currently building
