@@ -19,20 +19,6 @@
 I'm an Android developer with **4 years of experience** building native mobile applications, now deepening my skills in applied AI/ML — specifically **on-device machine learning**: running real models (not cloud API wrappers) directly on mobile hardware, under real memory and latency constraints.
 
 ---
-
-### 🔭 What I'm currently building
-
-**[FindShot](https://github.com/Hasmitha27/FindShot)** — an on-device photo/screenshot search app for Android. Point it at your gallery, search in plain language (even a full sentence), and it finds the right photo by reading the visible text with on-device OCR — no photo or extracted data ever leaves the device.
-
-- On-device ML integration (Google ML Kit Text Recognition)
-- Live gallery sync via `ContentObserver` + background indexing with `WorkManager`
-- Natural-language query parsing (keyword extraction, not just exact-match search)
-- Full Jetpack Compose UI, built and iterated from scratch
-
-*(Roadmap: semantic/embedding search, hybrid ranking, a measured evaluation harness, and an MCP interface for agentic access — see the [repo README](https://github.com/Hasmitha27/FindShot) for details.)*
-
----
-
 ### 🧰 Tech I work with
 
 **Android:** Kotlin · Jetpack Compose · MediaStore · WorkManager · Room · Coroutines
